@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<head>
+Pritha created her first website</head>
+<body> 
+<p html1>HELLO, dear. I AM PRITHA PARAMITA ROY. </p>
+</body>
